@@ -10,6 +10,8 @@ Windows 單一執行檔(免安裝)。接上 USB 轉 RS485 後,自動找出士林
 
 系統需求:Windows 10 1809 或更新版本、64 位元。不需要另外安裝 .NET 或任何執行環境。
 
+Release 另附 SPM-3 原廠使用手冊 `SPM-3_UserGuide.pdf` 供參考,著作權說明見下方「其他」。
+
 ## 用法
 
 1. 把 USB 轉 RS485 轉換器接到 SPM-3 的 RS485 端子(D+ / D- / COM),再插上電腦。SPM-3 出廠通訊參數為 19200 bps、8N1、站號 15。
@@ -55,6 +57,7 @@ Windows 單一執行檔(免安裝)。接上 USB 轉 RS485 後,自動找出士林
 
 ## 其他
 
+- **附件手冊的著作權**:Release 附件 `SPM-3_UserGuide.pdf` 為士林電機廠股份有限公司(Shihlin Electric Corporation)出版的《SPM-3 Multi-Function Power Meter User Guide》(版本日期 2016-01-08),著作權屬士林電機所有,此處僅附上供查閱參考,本 repo 不主張任何權利。
 - 內含 FTDI 驅動套件(版本 2.12.36.20,Microsoft 簽章),其著作權與使用條款屬 FTDI。
 - SPM-3、FTDI 為各自權利人的產品或商標名稱。
 - 本軟體以現狀提供,不附任何明示或默示的擔保。
